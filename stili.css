@@ -1,0 +1,285 @@
+body{font-family: calibri; 
+    background-color:#edbb63;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    width: auto;
+}
+
+
+h2 {
+    margin-top: 0px;
+    font-family: calibri;
+    font-size: 40px;
+    color: white;
+    text-align: center;
+}
+#aggiorna:hover{
+     text-decoration: underline;
+    
+}
+#aggiorna:active{
+     text-decoration: none;
+}
+    
+table {
+    width: 100%;
+}
+tr{
+    height: 50%
+}
+
+td.sett{
+    width: 30%;
+    font-size: 21px;
+    text-align: left
+}
+td {
+    width: 30%;
+    text-align: center;
+    font-size: 21px;
+}
+
+
+a {
+    color:white;
+    text-decoration: none;
+}
+
+
+a:hover {
+    color:white;
+    text-decoration: underline;
+}
+a:active {
+    text-decoration: none;
+}
+
+ a#sott:hover{
+    text-decoration: underline
+} 
+
+
+.circlea {
+  height: 15px;
+  width: 15px;
+  line-height: 20px;
+  border-radius: 50%;
+  background-color: blue;
+    z-index: 2; 
+    position: absolute;
+    margin-top: 8.2em;
+    margin-left: 19.2em;
+
+}
+
+
+.circlec {
+  height: 15px;
+  width: 15px;
+  line-height: 20px;
+  border-radius: 50%;
+  background-color: blue;
+    z-index: 2; 
+    position: absolute;
+    margin-top: 8.9em;
+    margin-left: 16.7em;
+    
+}
+
+.circled {
+  height: 15px;
+  width: 15px;
+  line-height: 20px;
+  border-radius: 50%;
+  background-color: blue;
+    z-index: 2; 
+    position: absolute;
+    margin-top: 10.5em;
+    margin-left: 18.5em;
+    
+}
+
+.circlee {
+  height: 15px;
+  width: 15px;
+  line-height: 20px;
+  border-radius: 50%;
+  background-color: blue;
+    z-index: 2; 
+    position: absolute;
+    margin-top: 11.4em;
+    margin-left: 17.0em;
+}
+
+.circlef {
+  height: 15px;
+  width: 15px;
+  line-height: 20px;
+  border-radius: 50%;
+  background-color: blue;
+    z-index: 2; 
+    position: absolute;
+    margin-top: 13em;
+    margin-left: 18.2em;
+}
+
+
+
+.circleh {
+  height: 15px;
+  width: 15px;
+  line-height: 20px;
+  border-radius: 50%;
+  background-color: blue;
+    z-index: 2; 
+    position: absolute;
+    margin-top: 15.4em;
+    margin-left: 18em;
+}
+
+.circlera {
+  height: 15px;
+  width: 15px;
+  line-height: 20px;
+  border-radius: 50%;
+  background-color: blue;
+    z-index: 2; 
+    position: absolute;
+    margin-top: 8.2em;
+    margin-left: 26.5em;
+
+}
+
+
+
+.circlerc {
+  height: 15px;
+  width: 15px;
+  line-height: 20px;
+  border-radius: 50%;
+  background-color: blue;
+    z-index: 2; 
+    position: absolute;
+    margin-top: 8.9em;
+    margin-left: 29em;
+    
+}
+
+.circlerd {
+  height: 15px;
+  width: 15px;
+  line-height: 20px;
+  border-radius: 50%;
+  background-color: blue;
+    z-index: 2; 
+    position: absolute;
+/*   text-align: center; */
+    margin-top: 10.5em;
+    margin-left: 27.2em;
+    
+}
+
+.circlere {
+  height: 15px;
+  width: 15px;
+  line-height: 20px;
+  border-radius: 50%;
+  background-color: blue;
+    z-index: 2; 
+    position: absolute;
+    margin-top: 11.4em;
+    margin-left: 28.7em;
+}
+
+.circlerf {
+  height: 15px;
+  width: 15px;
+  line-height: 20px;
+  border-radius: 50%;
+  background-color: blue;
+    z-index: 2; 
+    position: absolute;
+    margin-top: 13em;
+    margin-left: 27.5em;
+}
+
+
+.circlerh {
+  height: 15px;
+  width: 15px;
+  line-height: 20px;
+  border-radius: 50%;
+  background-color: blue;
+    z-index: 2; 
+    position: absolute;
+
+    margin-top: 15.6em;
+    margin-left: 27.7em;
+}
+
+
+.statse{
+    width: 14%;
+    font-size: 21;
+}
+.piedi1{
+    width: 20%;
+}
+
+div#container{
+    background: url(sfondo.jpg);
+     background-repeat: no-repeat;
+    background-position: 8em,0em;
+    
+    padding-right: 46em;
+   padding-bottom: 0.5em;
+    padding-left: 8em;
+    width: 46em;
+     height: 68em;
+    color: white;
+}
+
+
+div#containerScan{
+    
+    padding-right: 46em;
+   padding-bottom: 4em;
+    padding-left: 8em;
+    width: 46em;
+     height: 23em;
+    color: white;
+}
+div#statg{
+   
+     width: 46em;
+     height: 23em;
+}
+
+div#stats{
+  
+     font-family: calibri;
+     width: 46em;
+     height: 23em;
+}
+
+div#piedig{
+    background: url(piedi.jpg);
+     font-family: calibri;
+      width: 46em;
+     height: 23em;
+}
+
+div#piedis{
+    
+     font-family: calibri;
+     width: 46em;
+     height: 23em;
+
+} 
+
+div#link{
+    font-family: calibri;
+     width: 46em;
+     height: 8em;
+    
+}
